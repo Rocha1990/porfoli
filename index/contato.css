@@ -3,6 +3,15 @@ body{
     color: azure;
     font-family: Arial, Helvetica, sans-serif;
 }
+header img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgba(0, 255, 81, 0.889);
+}
+.informacao{
+    text-align:center;
+}
 
 .center{
     text-align: center;
@@ -21,6 +30,9 @@ body{
     display: flex;
     justify-content: center;
     text-align: center;
+}
+.contatos a:hover{
+    color: rgba(0, 255, 81, 0.889);
 }
 
 .contatos a{
