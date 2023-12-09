@@ -32,7 +32,7 @@ header img{
     text-align: center;
 }
 .contatos a:hover{
-    color: rgba(0, 255, 81, 0.889);
+    transform: scale(1.5) translateY(-15px);
 }
 
 .contatos a{
